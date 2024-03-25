@@ -1,0 +1,7 @@
+14:18:05 INFO + ====== WebDriver manager ======
+14:18:06 INFO + Get LATEST chromedriver version for google-chrome
+14:18:06 INFO + Get LATEST chromedriver version for google-chrome
+14:18:06 INFO + Driver [C:\Users\alexa\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+14:18:09 INFO + Send Fred123 to element //*[@id="login"]/div[1]/label/input
+14:18:09 INFO + Send 17fe38c02d to element //*[@id="login"]/div[2]/label/input
+14:18:09 INFO + Click login button
